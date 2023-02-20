@@ -1,0 +1,4 @@
+1. Install Anaconda (https://www.anaconda.com/products/distribution)
+2. Download the environment.yml file
+3. Create a new Anaconda environment: conda env create -f environment.yml
+4. 
